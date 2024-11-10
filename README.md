@@ -1,4 +1,5 @@
 Main Features
+
 User's are able to register themselves with the application (register/login/update-details/change-password)
 User's are able to manage and track their balance across different modes
 User's are able to track their current expenses/gains.
